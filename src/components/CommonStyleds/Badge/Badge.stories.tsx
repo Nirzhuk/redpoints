@@ -12,5 +12,6 @@ const Template: Story = (args) => <Badge {...args} />;
 export const BadgeColor = Template.bind({});
 BadgeColor.args = {
     color: '#403F6F',
+    children: 'Text'
 };
 
