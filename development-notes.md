@@ -1,0 +1,1 @@
+- Due the lack of time I don't develop more tests and the Infinite scrolling in the List.
